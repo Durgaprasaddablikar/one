@@ -5,4 +5,4 @@ COPY target/*.war /usr/local/tomcat/webapps/myweb.war
 Hii THis is prasad
 hii gurga
 webhook 
-poll
+poll scm
